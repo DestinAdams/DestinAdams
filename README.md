@@ -10,29 +10,23 @@ I love **designing systems that actually *do stuff***—whether that’s managin
 - ⚙️ **Systems Programming** – C++, C, Assembly, Verilog  
 - 💻 **Full-Stack Development** – Java, JavaFX, React, MySQL  
 - 🗄️ **Database Engineering** – MySQL, data management, backup & restore systems  
-- ⌚ **Entrepreneurship** – Running my own **pre-owned watch store** (Shopify + QuickBooks integration in progress)  
+- ⌚ **Entrepreneurship** – Running my own **Small Business Website Inventory Ecommerce Devloper** (Shopify + QuickBooks integration in progress)  
 - 🎯 **Problem-Solving Projects** – Hotel booking managers, article database apps, role-based access control systems  
 
 ---
 
 ## 🌟 Projects I’ve Built
-- 🏨 **Hotel Booking Management System** – Linked lists, heaps, hash tables for searching, canceling, and reordering bookings.  
-- 📚 **Article Database App** – Create, backup, restore, and manage encrypted articles with role-based permissions.  
-- 👩‍🏫 **Role-Based JavaFX Platform** – Admin, Instructor, and Student dashboards with modern UI and role selection.  
-- ⌚ **Shopify Watch Store** – Building custom integrations to sync inventory and transactions with QuickBooks.  
-
----
-
-## 📈 Currently Learning
-- 🔴 **Red-Black Trees** & advanced data structures  
-- 🌐 **Scalable full-stack system design**  
-- 🔐 **Encryption & secure data handling (BouncyCastle, AES, IVs)**  
-
+- 💎 **Oliver Smith Jeweler E-Commerce Website** – Built and managed a Shopify storefront, oversaw integration with an external inventory system, and wrote SQL adjustments to ensure the integration worked smoothly with the Shopify site.
+- 🕰️ **WatchWeek Aspen Website** – Created and enhanced the WatchWeek Aspen website, including building features like RSVP event functionality to handle client event registrations.
+  - 🕒 **ClockIn React App** – Built a modern React-based time tracking application with clean UI, state management, and real-time updates for logging work sessions.  
+- 🏨 **Hotel Booking Management System** – Designed and implemented a booking manager using linked lists, heaps, and hash tables for searching, canceling, and reordering hotel reservations.  
+- 👩‍🏫 **Role-Based JavaFX Platform** – Developed an application with Admin, Instructor, and Student dashboards, including role detection and modern UI design.
+  
 ---
 
 ## 🎨 Fun Facts
 - 🧩 I enjoy breaking down complex algorithms and rebuilding them cleaner.  
-- 🕒 I sell luxury watches when I’m not coding systems.  
+- 🕒 I learn about luxury watches  when I’m not coding systems.  
 - 🎮 I like gamifying my learning—turning problems into challenges to beat.  
 
 ---

@@ -18,7 +18,7 @@ I love **designing systems that actually *do stuff***—whether that’s managin
 ## 🌟 Projects I’ve Built
 - 💎 **Oliver Smith Jeweler E-Commerce Website** – Built and managed a Shopify storefront, oversaw integration with an external inventory system, and wrote SQL adjustments to ensure the integration worked smoothly with the Shopify site.
 - 🕰️ **WatchWeek Aspen Website** – Created and enhanced the WatchWeek Aspen website, including building features like RSVP event functionality to handle client event registrations.
-  - 🕒 **ClockIn React App** – Built a modern React-based time tracking application with clean UI, state management, and real-time updates for logging work sessions.  
+- 🕒 **ClockIn React App** – Built a modern React-based time tracking application with clean UI, state management, and real-time updates for logging work sessions.  
 - 🏨 **Hotel Booking Management System** – Designed and implemented a booking manager using linked lists, heaps, and hash tables for searching, canceling, and reordering hotel reservations.  
 - 👩‍🏫 **Role-Based JavaFX Platform** – Developed an application with Admin, Instructor, and Student dashboards, including role detection and modern UI design.
   
